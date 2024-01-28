@@ -1,0 +1,3 @@
+C:\Users\Grant\Desktop\School\Applied Programming\BudgetingCalc\BudgetingCalc\x64\Debug\BudgetingCalc.vcxproj.AssemblyReference.cache
+C:\Users\Grant\Desktop\School\Applied Programming\BudgetingCalc\BudgetingCalc\x64\Debug\BudgetingCalc.MyForm.resources
+C:\Users\Grant\Desktop\School\Applied Programming\BudgetingCalc\BudgetingCalc\x64\Debug\BudgetingCalc.vcxproj.GenerateResource.cache
